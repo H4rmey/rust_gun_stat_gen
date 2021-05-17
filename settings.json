@@ -1,0 +1,29 @@
+{
+    "attributes":
+        [
+            "ReloadTime",
+            "TravelSpeed",
+            "Damage",
+            "MagazineSize",
+            "Spread",
+            "Firerate",
+            "BulletsPerShot",
+            "BulletSize",
+            "BulletShape",
+            "WalkSpeed"
+        ],
+
+    "ranges": 
+    {
+        "ReloadTime": [0.2, 4.0],
+        "TravelSpeed": [1.0, 10.0],
+        "Damage": [0.0, 999.0],
+        "MagazineSize": [1.0, 30.0],
+        "Spread": [0.0, 1.0],
+        "Firerate": [0.1, 15.0],
+        "BulletsPerShot": [1.0, 14.0],
+        "BulletSize": [0.1, 5.0],
+        "BulletShape": [0.0, 0.1],
+        "WalkSpeed": [1.0, 4.0]
+    } 
+}
